@@ -1,1 +1,1 @@
-# Curso-Alura-Python-01
+# python-para-datascience-primeros-pasos
